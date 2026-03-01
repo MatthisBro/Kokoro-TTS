@@ -1,0 +1,5 @@
+kokoro>=0.7.16
+soundfile
+pdfplumber
+pydub
+torch

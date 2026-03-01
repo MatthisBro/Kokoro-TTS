@@ -1,0 +1,14 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore large model files
+*.pt
+*.pth
+*.bin
+*.ckpt
+
+# Ignore Python cache
+__pycache__/
+
+# Ignore macOS system files
+.DS_Store
