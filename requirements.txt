@@ -3,3 +3,5 @@ soundfile
 pdfplumber
 pydub
 torch
+pytesseract
+Pillow

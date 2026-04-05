@@ -12,3 +12,8 @@ __pycache__/
 
 # Ignore macOS system files
 .DS_Store
+
+# Ignore JetBrains IDE settings
+.idea/*
+!.idea/inspectionProfiles
+*.iml
